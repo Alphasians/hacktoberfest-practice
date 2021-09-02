@@ -22,7 +22,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 # Hacktoberfest Practice Pull Requests
 Repo for you to raise a Pull Request for practice.
 
-Just add your name to the alphabetical list and optionally, a link to your GitHub account
+Just add your name to the `NAMES.md` and optionally, a link to your GitHub account
 
 ### How to contribute
 1. Fork the project
